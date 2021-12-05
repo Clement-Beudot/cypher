@@ -1,0 +1,31 @@
+Alpha 0.4.0 (14.03.2019)
+
+Ajout du mode Challenge
+Correction d'un bug sur le décompte des points
+Nettoyage du code
+
+
+Alpha 0.3.0 (14.03.2019)
+
+Ajout de l'afficheur numérique du masque de la clé
+Ajout de l'affichage du résultat et des points obtenus
+Ajout des Règles et Infos 
+Préparation du mode Challenge
+
+
+Alpha 0.2.2 (12.03.2019):
+
+Ajout de la progression graphique du mode entrainement
+Echelonage de la taille du tableau
+
+Alpha 0.2.0 (08.03.2019):
+
+Ajout du mode entrainement
+Enregistrement des scores générés
+
+
+Alpha 0.1.0 (08.03.2019):
+
+Création de la structure du jeu
+Elaboration de l'interface principale
+Recupération et enregistrement des scores
